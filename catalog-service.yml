@@ -11,7 +11,7 @@ spring:
       username: usertest
       password: usertest
       database: catalogs
-      port: 27018
+      port: 27017
       host: localhost
   jpa:
     defer-datasource-initialization: true
