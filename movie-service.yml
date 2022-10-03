@@ -8,8 +8,8 @@ spring:
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
     url: jdbc:mysql://localhost:3306/movies
-    username: usertest
-    password: usertest
+    username: root
+    password: toor
   jpa:
     defer-datasource-initialization: true
     hibernate:
